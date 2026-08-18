@@ -4,7 +4,7 @@ ENVIRONMENT = "development"
 
 
 def get_message():
-    return "Hello from Git Demo App"
+    return "Hello from Git Demo App -- Remote"
 
 
 def get_status():
