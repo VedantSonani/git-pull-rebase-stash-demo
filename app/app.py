@@ -1,5 +1,5 @@
 APP_NAME = "Git Demo App"
-VERSION = "1.1"
+VERSION = "3.0"
 ENVIRONMENT = "development"
 
 
