@@ -3,6 +3,7 @@ def format_message(message):
 
 
 def calculate_total(price, quantity):
+    # this is the comment
     return price * quantity
 
 
