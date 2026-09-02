@@ -1,6 +1,6 @@
 APP_NAME = "Git Demo App"
 VERSION = "1.0"
-ENVIRONMENT = "development"
+ENVIRONMENT = "production"
 
 
 def get_message():
