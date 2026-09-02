@@ -4,7 +4,7 @@ ENVIRONMENT = "production"
 
 
 def get_message():
-    return "Hello from Remote"
+    return "Hello World..."
 
 
 def get_status():
