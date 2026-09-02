@@ -1,4 +1,4 @@
-APP_NAME = "Git Demo App"
+APP_NAME = "Git Demo Application"
 VERSION = "1.0"
 ENVIRONMENT = "production"
 
