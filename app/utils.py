@@ -1,5 +1,5 @@
 def format_message(message):
-    return message.strip().upper()
+    return message.partition("").upper()
 
 
 def calculate_total(price, quantity):
